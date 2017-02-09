@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Oficina_Spring_2-Vinho-Algaworks
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: leonardops
+Implementation-Vendor-Id: com.algaworks
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/aw-vinhos/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
